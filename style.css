@@ -8,8 +8,11 @@ header {
   display: flex;
   align-items: center;
   justify-content: center;
-  gap: 128.5px;
-  padding: 30px;
+  gap: 80.5px;
+  padding: 10px 50px;
+}
+header img {
+  width: 140px;
 }
 header ul {
   display: flex;
@@ -113,6 +116,7 @@ main {
 }
 .rt {
   display: inline-block;
+  padding: 40px 0;
 }
 .hi {
   font-family: Open Sans Condensed;
